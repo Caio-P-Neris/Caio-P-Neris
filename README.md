@@ -6,9 +6,11 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Caio-P-Neris&bg_color=0d1117&color=545f85&line=00ffd2&point=004687&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<div>
-<img height="180em" src='https://github-readme-stats.vercel.app/api?username=Caio-P-Neris&show_icons=true&theme=tokyonight'></img>
-<img height="180em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-P-Neris&layout=compact&theme=tokyonight'></img>
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Caio-P-Neris&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-P-Neris&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117" />
 </div>
 
 <div style="display: inline_block"><br>
@@ -27,12 +29,12 @@
 
 </div>
 
-
+<!--
 <div align="center">
 <br><p align="centre"><b>Número de visitantes:</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Caio-P-Neris}/count.svg" /></p> 
 <br>
 </div>
-
+-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=004687&height=120&section=footer"/>
